@@ -1,5 +1,6 @@
 require "router/version"
+require "router/router"
 
 module Router
-  # Your code goes here...
+  
 end
