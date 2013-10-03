@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Router::VERSION
   spec.authors       = ["Jason Thompson"]
   spec.email         = ["jason@jthompson.ca"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Learning more about rack by writing a router.}
+  spec.summary       = %q{A router. Not useable.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
